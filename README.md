@@ -1,5 +1,3 @@
-#Resilient Composite Control for Stability Enhancement in EV Integrated DC Microgrids
-
 This repository contains the simulation models used in the paper:
 "**Resilient Composite Control for Stability Enhancement in EV Integrated DC Microgrids.**"
 
@@ -9,11 +7,11 @@ Preprint:
 https://arxiv.org/pdf/2510.22429
 
 To reproduce the results presented in the paper, simply run the two provided Simulink models. 
-These models simulate the equivalent circuit of EV-integrated DC microgrid and the proposed **Global Integral Terminal SLiding Mode Backstepping Controller**.
+These models simulate the equivalent circuit of EV-integrated DC microgrid and the proposed **Global Integral Terminal Sliding Mode Backstepping Controller**.
 
 Requirements:
-MATLAB R2025a or later
-Simulink
+**MATLAB/Simulink R2025a or later**
+
 
 Instructions:
 1. Open MATLAB.
@@ -21,6 +19,7 @@ Instructions:
 3. Run the simulations to reproduce the results reported in the paper.
 
 If you encounter any issues while running the models, please feel free to contact me at mi1499@uah.edu
+
 
 Md Saiful Islam
 
