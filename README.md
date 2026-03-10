@@ -22,7 +22,7 @@ Instructions:
 
 If you encounter any issues while running the models, please feel free to contact me at mi1499@uah.edu
 
-Md Saiful Islam
-PhD Student, Electrical & Computer Engineering
-University of Alabama in Huntsville
+Md Saiful Islam\\
+PhD Student, Electrical & Computer Engineering\\
+University of Alabama in Huntsville\\
 AI, Autonomy, Resilience, and Control (AARC) Lab
